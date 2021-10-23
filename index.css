@@ -1,0 +1,65 @@
+body{
+ background-color: white;
+}
+
+h1{
+  color: lightseagreen;
+  background-color: #F9F4E1;
+  font-family: monaco;
+  font-size: 40px;
+  text-align: center;
+}
+.c{font-size: 30px; }
+.b{background-color: #9DBAD5;
+text-align: center;
+font-size: 20px;}
+
+.d{font-size: 18px;}
+h5{
+  background-color: #FAF3DD;
+  font-size: 20px;
+}
+.aboutme{
+  background-color: lightblue;
+  font-family: monaco;
+  font-size: 40px;
+}
+.a{
+  color: #769ECB;
+  text-align: center;
+}
+.d{font-size: 22px; }
+#mentalhealthimage{
+  align-self: center;
+}
+.c{font-family:cursive;
+font-size: 30px;
+color: #C23B23;
+}
+.f{font-size: 22px; }
+.g{font-size: 22px; }
+.e{
+  font-family:cursive;
+  font-size: 30px;
+  color: #C23B23;
+}
+
+#mindawakelogo{
+  height: 10%;
+  width: 10%;
+}
+
+.menu a{
+font-size: 20px;
+  padding: 14px 16px;
+  color: black;
+  border: 10px;
+  background-color:#BAD8D8;
+  margin: 0;
+  padding: 0;
+}
+.menu a:hover{
+  color: darkorchid;
+}
+
+.ab{font-size: 19px;}
